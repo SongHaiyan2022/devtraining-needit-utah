@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic">
+    <sys_cb_topic action="INSERT_OR_UPDATE">
+        <applicability/>
+        <applicability_mode>query</applicability_mode>
+        <autopilot_topic>false</autopilot_topic>
+        <category/>
+        <channels/>
+        <connect_queue/>
+        <context_profiles/>
+        <description/>
+        <dialog_acts_enabled>false</dialog_acts_enabled>
+        <expose_on_palette>false</expose_on_palette>
+        <flexible_conversation_switching>false</flexible_conversation_switching>
+        <foundational>false</foundational>
+        <graph>{"graph_api_version":"1.0.61","variables":{},"goals":{"primary":{"id":"primary","trigger":{"type":"primary"},"name":"primary","applicability":"","description":"","nodes":{"04fb67baa3234ee788bd58af1f6e2e49":{"id":"04fb67baa3234ee788bd58af1f6e2e49","stepType":"Start","name":"Start","greetingResponse":{"mode":"simple","value":""}},"15b3e49ad9724ccbb2220c8e724bd7c7":{"id":"15b3e49ad9724ccbb2220c8e724bd7c7","stepType":"TerminateGoal","name":"End","confirmationMessage":{"mode":"simple","value":""}}},"edges":[{"id":"77c9ffb20cd24bc794499139312d58a6","edgeType":"Edge","source":"04fb67baa3234ee788bd58af1f6e2e49","target":"15b3e49ad9724ccbb2220c8e724bd7c7","sourcePort":"","targetPort":""}]}}}</graph>
+        <key_phrases>Update NeedIt,Update,Modify,Update NeedIt</key_phrases>
+        <library>false</library>
+        <live_agent>false</live_agent>
+        <model_type>nlu_keyword</model_type>
+        <modify_confirmation_enabled>false</modify_confirmation_enabled>
+        <name>Update NeedIt</name>
+        <nlu_intent/>
+        <nlu_intent_label/>
+        <nlu_model/>
+        <nlu_model_label/>
+        <nlu_provider/>
+        <palette_label/>
+        <roles/>
+        <root_topic_id/>
+        <secure_custom_input_control>false</secure_custom_input_control>
+        <source_topic_id/>
+        <sys_class_name>sys_cb_topic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-29 06:30:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>16bac81c836ec2109d7dc4a6feaad33c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_cb_topic_16bac81c836ec2109d7dc4a6feaad33c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-29 06:30:00</sys_updated_on>
+        <triggerable_by_notification>false</triggerable_by_notification>
+        <type>STANDARD</type>
+    </sys_cb_topic>
+    <sys_translated_text action="delete_multiple" query="documentkey=16bac81c836ec2109d7dc4a6feaad33c"/>
+</record_update>
