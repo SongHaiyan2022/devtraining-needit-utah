@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="DELETE">
+        <operation>read</operation>
+        <source_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2024-04-30 05:54:28</sys_created_on>
+        <sys_id>9d5caabe833502109d7dc4a6feaad3a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ReadNeedit</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_scope_privilege_9d5caabe833502109d7dc4a6feaad3a0</sys_update_name>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2024-04-30 05:54:28</sys_updated_on>
+        <target_name>ReadNeedit</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>3e7e885c1b59cedc32182f8dee4bcb4a</instance_id>
+        <instance_name>dev250448</instance_name>
+        <name>sys_scope_privilege_9d5caabe833502109d7dc4a6feaad3a0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>read</operation><source_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>fred.luddy</sys_created_by><sys_created_on>2024-04-30 05:54:28</sys_created_on><sys_id>9d5caabe833502109d7dc4a6feaad3a0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ReadNeedit</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_scope_privilege_9d5caabe833502109d7dc4a6feaad3a0</sys_update_name><sys_updated_by>fred.luddy</sys_updated_by><sys_updated_on>2024-04-30 05:54:28</sys_updated_on><target_name>ReadNeedit</target_name><target_scope display_value="Global">global</target_scope><target_type>sys_db_object</target_type></sys_scope_privilege></record_update>]]></payload>
+        <payload_hash>-1711934255</payload_hash>
+        <record_name>ReadNeedit</record_name>
+        <reverted_from/>
+        <source>a2b3f5d2833d02109d7dc4a6feaad3c9</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2024-04-30 05:54:28</sys_created_on>
+        <sys_id>2b7ceabe833502109d7dc4a6feaad3df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f2d919db60000001</sys_recorded_at>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2024-04-30 05:54:28</sys_updated_on>
+        <type>Cross scope privilege</type>
+        <update_guid>2f7ceabe8c350210d11f4e9706251fde</update_guid>
+        <update_guid_history>2f7ceabe8c350210d11f4e9706251fde:-1711934255</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2024-04-30 06:05:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_scope_privilege">sys_scope_privilege</sys_db_object>
+        <sys_id>205a2ac4650b43079b7b870e3b66d421</sys_id>
+        <sys_metadata>9d5caabe833502109d7dc4a6feaad3a0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ReadNeedit</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_scope_privilege_9d5caabe833502109d7dc4a6feaad3a0</sys_update_name>
+        <sys_update_version display_value="sys_scope_privilege_9d5caabe833502109d7dc4a6feaad3a0">2b7ceabe833502109d7dc4a6feaad3df</sys_update_version>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2024-04-30 06:05:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
